@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+## [Tutorial](https://egghead.io/courses/build-a-modern-user-interface-with-chakra-ui-fac68106)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
